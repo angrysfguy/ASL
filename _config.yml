@@ -1,2 +1,4 @@
 name: ASL
 markdown: kramdown
+
+baseurl: "/ASL"
