@@ -2,3 +2,5 @@ name: ASL
 markdown: kramdown
 
 baseurl: "/ASL"
+
+permalink: /ASL/:year/:month/:day/:title
