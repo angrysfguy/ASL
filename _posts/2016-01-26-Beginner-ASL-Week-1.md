@@ -4,11 +4,11 @@ title: "Beginner ASL Week 1"
 date: 2016-01-26
 ---
 
-# Finger Spell & Numbers
+## Finger Spell & Numbers
 * A-Z
 * 0-30
 
-# Questions
+## Questions
 * Where - wave index like "no, no, no"
 * Who - index tickle lip
 * What - hands down like WTF
@@ -16,7 +16,7 @@ date: 2016-01-26
 * Understand - finger up happy
 * Don't understand - finger up frown
 
-# People and pronouns
+## People and pronouns
 * You- "stop"
 * Y'all - wave a stop sign
 * Me - point to self
@@ -35,20 +35,20 @@ date: 2016-01-26
 * Brother - hat brim down to crossed "1 hands"
 * Children - pat the little heads
 
-# School
+## School
 * Teach - both hands in "Os", pull out from brain
 * Teacher - teach + person (parallel hands down)
 * Learn - pick it up from palm and put in head
 * Student - learn + person (parallel hands down)
 
-# Deaf Culture
+## Deaf Culture
 * Deaf - index mouth to ear
 * hard of hearing - h h
 * Hearing - index lip diddle without touching lips
 * Finger spell - wiggle fingers
 * Sign - dancing index fingers
 
-# Other
+## Other
 * Nice - stroke palm with hand
 * Meet - bring index fingers together
 * Good - same as thank you
