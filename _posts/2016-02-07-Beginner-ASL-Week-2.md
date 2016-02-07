@@ -4,9 +4,9 @@ title: "Beginner ASL Week 2"
 date: 2016-02-07
 ---
 
-# Other Week 1 Vocabulary
+## Other Week 1 Vocabulary
 
-## General
+### General
 * Yes - shake fist like a yes head
 * No - two fingers out, drop em hard
 * Bread - Pretend left hand is bread, slice the loaf with right hand all fingers
@@ -22,7 +22,7 @@ date: 2016-02-07
 * Which - Fonzie thumbs up, milk the cow
 * Explain/describe - "F" with both hands but facing up; move in and out like milking the cow
 
-## School
+### School
 * Pencil - left hand Palm up is paper.  Make pencil holding pose, start at lip, sign the paper out
 * Course/lesson - left Palm open like paper.  Right hand make "bullet points" down page with side of opened hand
 * Paper - hands open; bounce ball of palms off each other with hands pointing in opposite direction (clap force)
@@ -31,9 +31,9 @@ date: 2016-02-07
 * University - left hand open, backhand out.  Right hand "U" circle out from Palm up to face
 * Class/group - "C" with both hands facing each other, and then flip then forward and down
 
-# New Vocabulary
+## New Vocabulary
 
-## General
+### General
 * thank you - Palm open backhand out; touch lips, pull down
 * Thanks a lot - thank you, then make round engulfing with both hands
 * Excuse me - left Palm open facing up; right hand fingers together pointing down; draw right hand across length of opened left hand quickly
@@ -55,7 +55,7 @@ date: 2016-02-07
 * Husband - right hand above head, bring it down to "clap" with left hand at waist
 * Wife - same as husband, but right hand starts much lower like around neck
 
-## Colors
+### Colors
 * Color - palm up, back hand out, stationary; wiggle fingers just below mouth
 * Red - scratch lip
 * Blue - flick B
@@ -71,7 +71,7 @@ date: 2016-02-07
 * Black - draw index finger across forehead (also means black person but not PC)
 * Orange - O squeezing invisible goatee (also means the fruit too)
 
-## Appearance
+### Appearance
 * Tall - Palm up high
 * Short - Palm down low
 * Thin - make a small with thumb/index (like "G") and draw it down center of torso
@@ -88,5 +88,5 @@ date: 2016-02-07
 * Sweet - candy or sweet natured; index and pointer out like a gun, bend in twice at lips
 * Appearance - circle face with index finger
 
-# Syntax
+## Syntax
 * Start with the subject and then add to it
