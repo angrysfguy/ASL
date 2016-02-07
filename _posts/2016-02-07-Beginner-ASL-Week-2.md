@@ -5,6 +5,7 @@ date: 2016-02-07
 ---
 
 # Other Week 1 Vocabulary
+
 ## General
 * Yes - shake fist like a yes head
 * No - two fingers out, drop em hard
@@ -31,6 +32,7 @@ date: 2016-02-07
 * Class/group - "C" with both hands facing each other, and then flip then forward and down
 
 # New Vocabulary
+
 ## General
 * thank you - Palm open backhand out; touch lips, pull down
 * Thanks a lot - thank you, then make round engulfing with both hands
