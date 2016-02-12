@@ -9,6 +9,7 @@ date: 2016-02-12
 * Nouns are double tap
 
 ## Week 2 Words We Missed
+
 ### School
 * Library - dancing L
 * Table - arms forward on top of each other, like a genie
@@ -54,6 +55,7 @@ date: 2016-02-12
 * Like - fists with index fingers pointing out, bump fists/hands together
 
 ## New Vocabulary
+
 ### General Time
 * Time - point to watch
 * Clock - tap wrist once, then make a circle with both index and thumbs like a round clock on the wall
