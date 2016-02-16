@@ -9,7 +9,6 @@ date: 2016-02-12
 * Nouns are double tap
 
 ## Week 2 Words We Missed
-
 ### School
 * Library - dancing L
 * Table - arms forward on top of each other, like a genie
@@ -55,7 +54,6 @@ date: 2016-02-12
 * Like - fists with index fingers pointing out, bump fists/hands together
 
 ## New Vocabulary
-
 ### General Time
 * Time - point to watch
 * Clock - tap wrist once, then make a circle with both index and thumbs like a round clock on the wall
@@ -78,23 +76,22 @@ date: 2016-02-12
 * Today - now + day, or just the same as now
 * Tomorrow - thumb mouth to normal thumbs-up
 * Yesterday - thumb at side of mouth, slide back to cheek
-* Week
-* Weekend
+* Week - left palm open, slide index along top
+* Weekend - week + karate chop down
 * Weekly - double movement of week
 * Next week - week then out
 * Last week - week; past
-* Month
-* Last month
-* Next month
-* Year
-* Next Year
-* Last Year
+* Month - pointer finger up facing away, slide other pointer finger down it
+* Last month - month then out
+* Next month - month; past
+* Year - one fist on top of the other, orbit and end up same as start
+* Next Year - year then out
+* Last Year - year; past
 
 ### Telling Time
 * 1 o clock - point to watch, then flash 1
 * 10 AM - 10 o clock, followed by morning
-* Hour
-* minute
-* Second
-* 5 minutes (1-5 min are special)
-
+* Hour - left hand palm open as a clock, right index against it a minute hand.  Spin it around.
+* minute - left hand palm open as a clock, right index against it as minute hand.  Tick it forward once.
+* Second - left hand palm open as a clock, right index against it as minute hand.  Tick it very slightly forward once.
+* 5 minutes (1-5 min are special) - like minute, but minute hand is the number (1-5)
